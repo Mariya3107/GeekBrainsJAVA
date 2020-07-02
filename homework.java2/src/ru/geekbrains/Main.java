@@ -1,7 +1,3 @@
-package ru.geekbrains;
-
-import java.util.Arrays;
-
 public class Main {
 
     //task 1
